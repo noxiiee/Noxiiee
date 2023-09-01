@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noxiiee, and I am using Github for my Website Development 1 Class at Raritan Valley Community College. 
+- 👋 Hi, I’m @Noxiiee, AKA B"J"D and I am using Github for my Website Development 1 Class at Raritan Valley Community College. 
 - 👀 I’m interested in ... Learning!
 - 🌱 I’m currently learning ... My Classes are: (1) Web Page Development, (2) Desktop Computers Hardware and Software, (3) Networking Essentials, and (4) Privacy - Ethics - Computer Forensics.
 - 💞️ I’m looking to collaborate on ... Homework
