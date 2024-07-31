@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Noxiiee, AKA B"J"D and I am using Github for my Website Development 1 Class at Raritan Valley Community College. 
+- 👋 Hi, I’m @Noxiiee, AKA Jason Deitz
 - 👀 I’m interested in ... Learning!
-- 🌱 I’m currently learning ... My Classes are: (1) Web Page Development, (2) Desktop Computers Hardware and Software, (3) Networking Essentials, and (4) Privacy - Ethics - Computer Forensics.
-- 💞️ I’m looking to collaborate on ... Homework
-- 📫 How to reach me ... Canvas
-- One of the core values of Raritan Valley Community College is to foster an environment of mutual respect, responsibility, and collaboration. The RVCC Code of Student Conduct (Code) establishes expectations of behavior for all RVCC students regardless of enrollment status or campus location.
-- By submitting to this repository, the student states that they have neither given nor received unauthorized aid on this assignment.
-- Additionally, the student will, to the best of their ability, use the README of this repository to link to any resources used to complete the assignment.
-
+- 🌱 I’m currently learning ... My Classes are: (1) Network Operating Systems and Cloud Computing, (2) CCNA 1 and 2
+- 💞️ I’m looking to collaborate on ... CTFs
+- 📫 How to reach me ... LinkedIn
 
 <!---
 Noxiiee/Noxiiee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
